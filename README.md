@@ -11,7 +11,7 @@ The notebook supports:
 Notebook: osmnx_vias.ipynb
 Recommended audience: urban planners, architecture/urbanism students, transport and spatial analysis researchers.
 
-To cite: Maffini, Ana Luisa. Urban Segment Network - OSM. 2025. DOI: 10.5281/zenodo.17583193. 
+To cite: Maffini, A. L. (2025). Urban Segment Network - OSM (v.01). Zenodo. https://doi.org/10.5281/zenodo.17583194
 
 ## Table of Contents
 
